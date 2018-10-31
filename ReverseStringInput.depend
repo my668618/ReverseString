@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541029443 source:c:\users\mason\desktop\reversestringinput\main.c
+	<stdio.h>
+	<stdlib.h>
+
